@@ -17,13 +17,13 @@ BondIntel-AI is an interactive Python application for bond investors that levera
 You can clone the repository and run the main.py file to start the application. Make sure to install the required dependencies from the `requirements.txt` file:
 
 ```bash
-git clone https://github.com/yourusername/BondIntel-AI.git
+git clone https://github.com/vedant-varma/BondIntel-AI.git
 cd BondIntel-AI
 pip install -r requirements.txt
 python main.py
 
 Usage
-Once the application is running, you can input bond data by clicking the "Submit" button. You can then click "Create Analysis" to generate the AI analysis, which will be saved in a Word document. You can also use the "Ask AI Expert" feature to ask questions about the bond. The questions and answers will be added to the Word document as well.
+Once the application is running, you can input bond data by clicking the "Submit" button. You can then click "Create Analysis" to generate the AI analysis, which will be saved in a Word document. You can also use the "Ask AI Expert" feature to ask questions about the bond. The questions and answers will be added to the Word document as well. *Make sure to CLOSE WORD DOC before submitting a new question to the AI*
 
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
